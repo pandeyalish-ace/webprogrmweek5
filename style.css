@@ -1,0 +1,36 @@
+/* Sets the dark background for the whole page */
+body {
+    background-color: #141414;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+/* Styles the box containing your info */
+.card {
+    background-color: #000000;
+    border-top: 5px solid #E50914; /* Netflix Red Line */
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Requirement: Style the ID (#) */
+#profile-name {
+    color: #E50914; /* Netflix Red */
+    margin-bottom: 5px;
+}
+
+/* Requirement: Style the Class (.) */
+.card-info {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+/* Simple styling for the bio */
+.bio {
+    color: #b3b3b3;
+    font-style: italic;
+}
