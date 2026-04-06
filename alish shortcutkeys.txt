@@ -1,0 +1,11 @@
+windwos key+ E for file explorer
+windows key + D for hide all open windows
+windows key + v for to show clipboard history 
+windows key + l to lock your screen
+windwos key + shift + S for screenshot
+
+ctrl+T OPENS NEW TAB 
+ctrl +W CLOSE CURRENT TABS 
+ctrl+L JUMP STRAIGHT TO ADDRESS BAR
+ctrl+SHIFT+T OPENS LAST TAB YOU CLOSED 
+ctrl+J OPENS YOUR DOWNLOADS FOLDER IN NEW TAB
